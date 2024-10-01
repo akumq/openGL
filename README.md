@@ -1,4 +1,4 @@
-# OpenGL-Explorer
+# OpenGL
 
 A toy example to explore both C++17 and OpenGL (4.1) on an m1 mac, for ARM specifically (no rosetta2 here).
 
@@ -22,5 +22,3 @@ I wrote a blog post about this exercise here, please take a look for the trouble
 * `r` to reload the shaders, if you modify the `fragment_shader.glsl` or `vertex_shader.glsl` files.
 
 ## Screenshot
-
-![rgb_triangle.png](docs/rgb_triangle.png)
